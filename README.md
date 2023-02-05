@@ -1,3 +1,5 @@
+# samba set-up
+
 Change IPv4
 sudo apt install openssh-server
 sudo systemctl status ssh
